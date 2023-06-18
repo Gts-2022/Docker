@@ -3,7 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-
+.gitignore
 ### STS ###
 .apt_generated
 .classpath
@@ -31,7 +31,7 @@ out/
 .vscode/
 
 ### Package Files ###
-*.jar
+
 *.war
 *.nar
 *.ear
